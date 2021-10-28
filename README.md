@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MZ1182
 - 👀 I’m interested in traveling and programming 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me --discord:mz1182#8564
 
